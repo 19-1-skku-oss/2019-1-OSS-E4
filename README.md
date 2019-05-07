@@ -1,30 +1,43 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# About our Team
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+ 
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+2019-05-07
 
-## Preview
+ 
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+## Members
 
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
+ 
 
-## Getting Started
++ 손경식 (Software/18) : kyeongsik
 
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
++ 김종윤 (Software/18) : kimjy0126
+
++ 이준석 (Software/18) : CheFly1116
+
++ 정현웅 (Software/18) : uunngg
+
+ 
+
+***
+
+ 
+
+### About Project
+
+ 
+
+Pokemon Battle Simulator Project
+
+ 
+
+[pokemonsimulator](pokemonshowdown.com)
+
+ 
+
+![pokemonshowdown.jpg](https://pokemonshowdown.com/images/pokemonshowdownbeta.png)
+
+ 
+
+Pokemon Battle Simulator를 구글에 검색하면 연관검색어에 Github가 뜨는 만큼 매우 Hot한 오픈소스입니다. 이 소스는 자신의 포켓몬과 상대의 포켓몬의 능력치를 비교, 분석하여 결과를 도출합니다. 이 페이지는 사람들로 하여금 더 높은 성공률을 고취시킵니다.
