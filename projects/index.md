@@ -1,2 +1,2 @@
-#Algorithm in C
+## Algorithm in C
 there are many algorithm, and we will commit many algorithm like sorting, searching, etc...
