@@ -32,6 +32,6 @@ C Language Algorithm
 
  
 
-![pokemonshowdown.jpg](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiIyPKQrqziAhULK6YKHR7lDU8QjRx6BAgBEAU&url=http%3A%2F%2Fpngimg.com%2Fimgs%2Falphabet%2Fletter_c%2F&psig=AOvVaw3TeEsVIXfJvQs8gguNGS_J&ust=1558519075988476)
+![pokemonshowdown.png](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiIyPKQrqziAhULK6YKHR7lDU8QjRx6BAgBEAU&url=http%3A%2F%2Fpngimg.com%2Fimgs%2Falphabet%2Fletter_c%2F&psig=AOvVaw3TeEsVIXfJvQs8gguNGS_J&ust=1558519075988476.png)
 
  This project is about Algorithm with C. There are many categories like searching, sorting, hash, data structures, exercism, etc. We will commit new & edit C file. When we finish this project, This can make amateur study easily.
