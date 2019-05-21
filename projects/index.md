@@ -1,6 +1,2 @@
----
-layout: project
-title: All Projects
-excerpt: "A List of Projects"
-comments: false
----
+## Algorithm in C
+there are many algorithm, and we will commit many algorithm like sorting, searching, etc...
