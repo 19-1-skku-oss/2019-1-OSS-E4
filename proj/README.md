@@ -43,11 +43,22 @@
 
 ## Sorting
 	- BinaryInsertionSort
+	- BitonicSort
 	- BubbleSort
 	- BogoSort
+	- BucketSort
+	- CycleSort
 	- InsertionSort
 	- MergeSort
 	- OtherBubbleSort
+	- CombSort
+	- CountingSort
+	- OddevenSort
+	- PancakeSort
+	- PartitionSort
+	- PigeonholeSort
+	- RadixSort
+	- StoogeSort
 	- QuickSort
 	- SelectionSort
 	- ShakerSort
