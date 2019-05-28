@@ -30,12 +30,16 @@
 	trie
 		- trie
 
-
 ## Searching
+	- Searching
 	- Binary_Search
-	- Other_Binary_Search
 	- Jump_Search
-
+	- LinearSearch
+	- Other_Binary_Search
+	- binarys
+	- fibonacciSearch
+	- interpolation_search
+	- modifiedBinarySearch
 
 ## Sorting
 	- BinaryInsertionSort
