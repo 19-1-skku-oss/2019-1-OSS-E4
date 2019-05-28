@@ -1,113 +1,103 @@
-    #include <stdio.h>
+#include <stdio.h>
 
-     
+#define MAX 8
 
-    #define MAX 8
+ 
 
-     
+int main()
 
-    void cycle_sort(int *);
+{
 
-     
+    int data[MAX];
 
-    void main()
+    int i, j, n, c;
+
+ 
+
+    printf("\nEnter the data");
+
+    for (i = 0; i < MAX; i++)
 
     {
 
-        int a[MAX],i;
-
-     
-
-        printf("enter the elements into array :");
-
-        for (i = 0;i < MAX; i++)
-
-        {
-
-            scanf("%d", &a[i]);
-
-        }
-
-        cycle_sort(a);
-
-        printf("sorted elements are :\n");
-
-        for (i = 0;i < MAX; i++)
-
-        {
-
-            printf("%d", a[i]);
-
-        }
+        scanf("%d", &data[i]);
 
     }
 
-     
+    n = MAX;    
 
-    /* sorts elements using cycle sort algorithm */
-
-    void cycle_sort(int * a)
+    do
 
     {
 
-        int temp, item, pos, i, j, k;
+        /*
 
-     
+          * Rightward pass will shift the largest element to its correct place at the end
 
-        for (i = 0;i < MAX; i++)
+         */
+
+        for (i = 0;  i < n - 1; i++)
 
         {
 
-            item = a[i];
-
-            pos = i;
-
-            do
+            if (data[i] > data[i + 1])
 
             {
 
-                k = 0;
+                data[i] = data[i] + data[i + 1];
 
-                for (j = 0;j < MAX;j++)
+                data[i + 1] = data[i] - data[i + 1];
 
-                {
+                data[i] = data[i] - data[i + 1];
 
-                    if (pos != j && a[j] < item)
+ 
 
-                    {
+            }
 
-                        k++;
-
-                    }
-
-                }
-
-                if (pos != k)
-
-                {
-
-                    while (pos != k && item == a[k])
-
-                    {
-
-                        k++;
-
-                    }
-
-                    temp = a[k];
-
-                    a[k] = item;
-
-                    item = temp;
-
-                    pos = k;
-
-                }
-
-            }while (pos != i);
+ 
 
         }
 
+        n = n - 1;
+
+        /* 
+
+          * Leftward pass will shift the smallest element to its correct place at the beginning
+
+          */
+
+        for (i= MAX - 1, c = 0; i >= c; i--)
+
+        {
+
+            if(data[i] < data[i - 1])
+
+            {
+
+                data[i] = data[i] + data[i - 1];
+
+                data[i - 1] = data[i] - data[i - 1];
+
+                data[i] = data[i] - data[i - 1];
+
+            }
+
+        }
+
+        c = c + 1;
+
+ 
+
+    } while (n != 0 && c != 0);
+
+    printf("The sorted elements are:");
+
+    for (i = 0; i < MAX; i++)
+
+    {
+
+        printf("%d\t", data[i]);
+
     }
 
-
+}
