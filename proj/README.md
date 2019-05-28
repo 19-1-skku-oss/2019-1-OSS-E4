@@ -24,6 +24,7 @@
 	linked_list
 		- singly_link_list_deletion
 		- stack_using_linkedlists
+                - double_linkedlists
 	binary_trees
 		- create_node
 		- recursive_traversals
