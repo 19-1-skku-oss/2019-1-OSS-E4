@@ -30,6 +30,9 @@
 		- recursive_traversals
 	trie
 		- trie
+	graph
+		-BFS
+		-DFS
 
 ## Searching
 	- Searching
