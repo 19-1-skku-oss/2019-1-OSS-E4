@@ -10,7 +10,7 @@
 
  
 
-+ 손경식 (Software/18) : kyeongsik
++ 손경식 (Software/18) : Son-GyeongSik
 
 + 김종윤 (Software/18) : kimjy0126
 
