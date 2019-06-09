@@ -21,10 +21,11 @@
 	- stack
 	- queue
 	- dictionary
+	- priority_queue (heap)
 	linked_list
 		- singly_link_list_deletion
 		- stack_using_linkedlists
-                - double_linkedlists
+		- double_linkedlists
 	binary_trees
 		- create_node
 		- recursive_traversals
@@ -71,7 +72,7 @@
 	- Greatest Common Divisor
 	- Sudoku Solver
 	- prime factorization
-
+	- Greatest Common Divisor, Least Common Multiplier(Iterative)
 
 ## exercism
 In this directory you will find (in the right order):
