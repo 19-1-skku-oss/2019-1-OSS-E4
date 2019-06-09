@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dijkstra's Algorithm"
-date: 2019-06-08
+date: 2019-06-09
 excerpt: "Dijkstra's Algorithm is Finding Shortes path algorithm"
 tags: [Graph, Shortest Path]
 comments: true
