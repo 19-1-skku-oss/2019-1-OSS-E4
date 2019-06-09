@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "DFS"
+title: "Dijkstra's Algorithm"
 date: 2019-06-08
-excerpt: "DFS is a Graph Traveling Method"
-tags: [Graph, Travel]
+excerpt: "Dijkstra's Algorithm is Finding Shortes path algorithm"
+tags: [Graph, Shortest Path]
 comments: true
 ---
 
