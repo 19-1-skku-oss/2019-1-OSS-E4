@@ -15,7 +15,7 @@ The algorithm exists in many variants; Dijkstra's original variant found the sho
 
 ## Example By Image
 
-![Dijkstra graph](https://player.slideplayer.com/23/6918468/data/images/img15.jpg)
+![Dijkstra graph](https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif)
 
 ## Source Code by C
 
