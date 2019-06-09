@@ -26,13 +26,13 @@ PROBLEMS:
    Find the largest palindrome made from the product of two 3-digit numbers which is less than N.
    
    #### My Sol. 1
-   ''' C
+   ``` C
    
    #include <stdio.h>
-using namespace std;
-int main()
-{
-	int a, b, maxx = 0;
+   using namespace std;
+   int main()
+   {
+   	int a, b, maxx = 0;
 	int arr[10];
 	for (a = 999; a >= 100; a--)
 	{
@@ -60,9 +60,9 @@ int main()
 		}
 	}
 	printf("%d\n", maxx);
-}
+   }
    
-   '''
+   ```
    
 5. 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder. 
    What is the smallest positive number that is evenly divisible(divisible with no remainder) by all of the numbers from 1 to N?
