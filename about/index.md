@@ -15,7 +15,7 @@ comments: false
 
    E-mail : apple06521@gmail.com
    
-   Github ID : Son-Gyeongsik
+   Github ID : [Son-Gyeongsik](https://github.com/Son-GyeongSik)
 
 
 ### 이준석 
@@ -24,7 +24,7 @@ comments: false
 
   E-mail : sam4363@naver.com
 
-  Github ID : CheFly1116
+  Github ID : [CheFly1116](https://github.com/CheFly1116)
 
 
 ### 김종윤 
@@ -33,7 +33,7 @@ comments: false
 
   E-mail : kimjy0126@skku.edu
 
-  Github ID : kimjy0126
+  Github ID : [kimjy0126](https://github.com/kimjy0126)
 
 
 ### 정현웅 
@@ -42,7 +42,7 @@ comments: false
 
   E-mail : gusdnd647@naver.com
 
-  Github ID : uunngg
+  Github ID : [uunngg](https://github.com/uunngg)
 
 =======
 
