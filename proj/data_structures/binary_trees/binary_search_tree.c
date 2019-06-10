@@ -159,6 +159,22 @@ void inOrder(node* root){
 	}
 }
 
+void preOrder(node* root) {
+    if(root != NULL) {
+        printf("\t[ %d]\t", root->data);
+        preOrder(root->left);
+        preOrder(root->right);
+    }
+}
+
+void postOrder(node *root) {
+    if (root != NULL) {
+        postOrder(root->left);
+        postOrder(root->right);
+        printf("\t[ %d]\t", root->data);
+    }
+}
+
 void main(){
 
     // this reference don't change.
@@ -169,7 +185,7 @@ void main(){
 
     // event-loop.
 	while (opt != 0){
-		printf("\n\n[1] Insert Node\n[2] Delete Node\n[3] Find a Node\n[4] Get current Height\n[5] Print Tree in Crescent Order\n[0] Quit\n");
+		printf("\n\n[1] Insert Node\n[2] Delete Node\n[3] Find a Node\n[4] Get current Height\n[5] Print Tree in Crescent Order\n[6] Print Tree in Preorder\n[7] Print Tree in PostOrder\n[0] Quit\n");
 		scanf("%d",&opt); // reads the choice of the user
 
         // processes the choice
@@ -198,6 +214,10 @@ void main(){
 
 			case 5: inOrder(root);
 				break;
+            case 6: preOrder(root);
+                break;
+            case 7: postOrder(root);
+                break;
 		}
 	}
 
