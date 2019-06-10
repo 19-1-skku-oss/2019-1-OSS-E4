@@ -34,7 +34,7 @@ In the 20X20 grid below, four numbers along a diagonal line have been marked in 
 
 The product of these numbers is 26 X 63 X 78 X 14 = 1788696.
 
-What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20¡¿20 grid?
+What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20X20 grid?
 ## Sol. 1
 
 ```c
