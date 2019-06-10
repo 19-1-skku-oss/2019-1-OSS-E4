@@ -7,27 +7,25 @@ In computer systems, an algorithm is basically an instance of logic written in s
 Dynamic Algorithm, Greedy Algorithm, Dijkstra's Algorithm, DFS, BFS, Network Flow, etc...
 
 ## Project Contributer
- 1. Son-GyeongSik (Team Leader)
+1. Son-GyeongSik (Team Leader)
+
     * Project Managing    
     * Algorithm Adding
     * Static-Page Managing
     
- 2. Lee-JunSeok  
+2. Lee-JunSeok  
+ 
     * Algorithm Adding
     * Repository Managing
     
- 3. Jeong-HyeonWoong
+3. Jeong-HyeonWoong
  
     * MD File Managing
     * Algorithm Adding
     
- 4. Kim-JongYoon
+4. Kim-JongYoon
   
     * Algorithm Adding
     * Wiki Managing
 
-## Project Process (2019.06.11)
-| Son-GyeongSik | Lee-JunSeok | Kim-JongYoon | Jeong-HyeonWoong |
-|--|--|--|--|
-| Graph Algorithm | Data-Structure | Sorting Algorithm | Searching Algorithm |
-| Project Euler |  |  |  |
+## Project Process (~ 2019.06.11)
