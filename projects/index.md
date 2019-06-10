@@ -6,18 +6,22 @@ Dynamic Algorithm, Greedy Algorithm, Dijkstra's Algorithm, DFS, BFS, Network Flo
 
 ## Project Contributer
   1. Son-GyeongSik (Team Leader)
-    * Project Managing
+  
+    * Project Managing    
     * Algorithm Adding
     * Static-Page Managing
     
   2. Lee-JunSeok
+  
     * Algorithm Adding
     * Repository Managing
     
   3. Jeong-HyeonWoong
+  
     * MD File Managing
     * Algorithm Adding
     
   4. Kim-JongYoon
+  
     * Algorithm Adding
     * Wiki Managing
