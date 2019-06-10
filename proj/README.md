@@ -31,21 +31,39 @@
 		- recursive_traversals
 	trie
 		- trie
-
+	graph
+		-BFS
+		-DFS
 
 ## Searching
+	- Searching
 	- Binary_Search
-	- Other_Binary_Search
 	- Jump_Search
-
+	- LinearSearch
+	- Other_Binary_Search
+	- binarys
+	- fibonacciSearch
+	- interpolation_search
+	- modifiedBinarySearch
 
 ## Sorting
 	- BinaryInsertionSort
+	- BitonicSort
 	- BubbleSort
 	- BogoSort
+	- BucketSort
+	- CycleSort
 	- InsertionSort
 	- MergeSort
 	- OtherBubbleSort
+	- CombSort
+	- CountingSort
+	- OddevenSort
+	- PancakeSort
+	- PartitionSort
+	- PigeonholeSort
+	- RadixSort
+	- StoogeSort
 	- QuickSort
 	- SelectionSort
 	- ShakerSort

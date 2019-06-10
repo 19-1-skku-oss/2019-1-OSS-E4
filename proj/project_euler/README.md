@@ -25,8 +25,78 @@ PROBLEMS:
 4. A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
    Find the largest palindrome made from the product of two 3-digit numbers which is less than N.
    
+   #### My Sol. 1
+   ``` C
+   
+   #include <stdio.h>
+   using namespace std;
+   int main()
+   {
+   	int a, b, maxx = 0;
+	int arr[10];
+	for (a = 999; a >= 100; a--)
+	{
+		for (b = 999; b >= 100; b--)
+		{
+			int i, cnt = 0, v;
+			v = a * b;
+			while (v > 0)
+			{
+				arr[cnt] = v % 10;
+				cnt++;
+				v /= 10;
+			}
+			cnt--;
+			for (i = 0; i <= cnt; i++)
+			{
+				if (arr[i] != arr[cnt - i])
+					break;
+			}
+			if (i > cnt)
+			{
+				if (a * b > maxx)
+					maxx = a * b;
+			}
+		}
+	}
+	printf("%d\n", maxx);
+   }
+   
+   ```
+   
 5. 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder. 
    What is the smallest positive number that is evenly divisible(divisible with no remainder) by all of the numbers from 1 to N?
+   
+   #### My Sol. 1
+   ```c
+   	#include <stdio.h>
+	using namespace std;
+	int main()
+	{
+		int arr[21] = { 0, };
+		int v = 1;
+		for (int i = 2; i <= 20; i++)
+		{
+			if (arr[i] == 0)
+			{
+				int s = i;
+				while (s <= 20)
+				{
+					arr[s] = 1;
+					s *= i;
+				}
+				v *= s/i;
+				s = i;
+				while (s <= 20)
+				{
+					arr[s] = 1;
+					s += i;
+				}
+			}
+		}
+		printf("%d\n", v);
+	}
+    ```
    
 6. The sum of the squares of the first ten natural numbers is,
       1^2 + 2^2 + ... + 10^2 = 385
