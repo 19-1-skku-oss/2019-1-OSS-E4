@@ -1,3 +1,4 @@
+
 ## What is Algorithm?
 In computer systems, an algorithm is basically an instance of logic written in software by software developers, to be effective for the intended "target" computer(s) to produce output from given (perhaps null) input. An optimal algorithm, even running in old hardware, would produce faster results than a non-optimal (higher time complexity) algorithm for the same purpose, running in more efficient hardware; that is why algorithms, like computer hardware, are considered technology.
 
@@ -29,3 +30,17 @@ Dynamic Algorithm, Greedy Algorithm, Dijkstra's Algorithm, DFS, BFS, Network Flo
     * Wiki Managing
 
 ## Project Process (~ 2019.06.11)
+
+ 1. Son-GyeongSik
+	* Graph Algorithm
+	* Project Euler
+
+ 2. Lee-JunSeok
+	* Data-Structure
+	* Project Euler
+
+ 3. Kim-JongYoon
+	* Sorting Algorithm
+
+ 4. Jeong-HyeonWoong
+	* Searching Algorithm
