@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Bellman-Ford Algorithm"
+title: "Floyd-Warshall Algorithm"
 date: 2019-06-09
-excerpt: "Bellman-Ford Algorithm is Finding Shortes path algorithm"
+excerpt: "Floyd-Warshall Algorithm is Finding Shortes path algorithm"
 tags: [Graph, Shortest Path]
 comments: true
 ---
 
-## Bellman-Ford algorithm Definition
+## Floyd-Warshall algorithm Definition
 
-In computer science, the Floyd?Warshall algorithm is an algorithm for finding shortest paths in a weighted graph with positive or negative edge weights (but with no negative cycles). A single execution of the algorithm will find the lengths (summed weights) of shortest paths between all pairs of vertices. Although it does not return details of the paths themselves, it is possible to reconstruct the paths with simple modifications to the algorithm. Versions of the algorithm can also be used for finding the transitive closure of a relation R, or (in connection with the Schulze voting system) widest paths between all pairs of vertices in a weighted graph.
+In computer science, the Floyd-Warshall algorithm is an algorithm for finding shortest paths in a weighted graph with positive or negative edge weights (but with no negative cycles). A single execution of the algorithm will find the lengths (summed weights) of shortest paths between all pairs of vertices. Although it does not return details of the paths themselves, it is possible to reconstruct the paths with simple modifications to the algorithm. Versions of the algorithm can also be used for finding the transitive closure of a relation R, or (in connection with the Schulze voting system) widest paths between all pairs of vertices in a weighted graph.
 
 ## Example By Image
 
