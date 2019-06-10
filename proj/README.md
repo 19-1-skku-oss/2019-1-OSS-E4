@@ -91,6 +91,18 @@
 	- Sudoku Solver
 	- prime factorization
 	- Greatest Common Divisor, Least Common Multiplier(Iterative)
+	
+## Euler Project
+	- Problem 1
+	- Problem 2
+	- Problem 3
+	- Problem 4
+	- Problem 5
+	- Problem 6
+	- Problem 7
+	- Problem 8
+	- Problem 11
+	- Problem 15
 
 ## exercism
 In this directory you will find (in the right order):
