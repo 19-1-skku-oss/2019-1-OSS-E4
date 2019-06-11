@@ -1,30 +1,6 @@
-# About our Team
+# <bold>C Algorithm Library</bold>
 
- 
-
-2019-05-07
-
- 
-
-## Members
-
- 
-
-+ 손경식 (Software/18) : Son-GyeongSik
-
-+ 김종윤 (Software/18) : kimjy0126
-
-+ 이준석 (Software/18) : CheFly1116
-
-+ 정현웅 (Software/18) : uunngg
-
- 
-
-***
-
- 
-
-### About Project
+# About Project
 Out Project is 'C Language Algorithm Library'
 Look at what we've done!
 
@@ -68,3 +44,20 @@ You can see the algorithm what you want in our 'C Language Algorithm Library'
 
 1. Output is non-falling (an order in which each element is not smaller than the previous element in the whole sequence).
 2. Output is the sequence created by rearranging inputs.
+
+***
+
+
+# About our Team
+## Members
+
+ 
+
++ 손경식 (Software/18/Sungkyunkwan Univ.) : Son-GyeongSik
+
++ 김종윤 (Software/18/Sungkyunkwan Univ.) : kimjy0126
+
++ 이준석 (Software/18/Sungkyunkwan Univ.) : CheFly1116
+
++ 정현웅 (Software/18/Sungkyunkwan Univ.) : uunngg
+
