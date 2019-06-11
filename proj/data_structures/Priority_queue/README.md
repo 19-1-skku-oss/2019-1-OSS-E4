@@ -15,19 +15,19 @@
  
 ### Heap.h
 
-* int GetParent(int idx); 
+* int GetParent(int idx);<br>
 This function returns idx / 2, the parent node's idx.
 
-* int GetLChild(int idx);
-This functino returns idx * 2, the left child node's idx.
+* int GetLChild(int idx);<br>
+This function returns idx * 2, the left child node's idx.
 
-* int GetRChild(int idx);
+* int GetRChild(int idx);<br>
 This function returns idx * 2 + 1, the right child node's idx.
 * void Insert(Heap *pheap, Data, int priority);
 
-* int GetHighPriorityChild(Heap *pheap, int idx);
+* int GetHighPriorityChild(Heap *pheap, int idx);<br>
 This function returns child node's idx which has higher priority.
-- Code
+    - Code
 ```c
 int GetHighPriorityChild(Heap *pheap, int idx)
 {
