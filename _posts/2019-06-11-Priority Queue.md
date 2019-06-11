@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Priority Queue"
+date: 2019-06-11
+excerpt: "Same with Queue, but node has own priority."
+tags: [Priority Queue, Heap]
+comments: true
+---
+
 # Priority Queue
 
 
