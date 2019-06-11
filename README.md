@@ -1,4 +1,4 @@
-# <bold>C Algorithm Library</bold>
+<bold>C Algorithm Library</bold>
 
 # About Project
 Out Project is 'C Language Algorithm Library'
