@@ -138,7 +138,7 @@ void RemoveLast(CiruclarList *plist)
     }
 }
 
-void RemoveLast(CiruclarList *plist, int pos)
+void RemoveMiddle(CiruclarList *plist, int pos)
 {
     if (plist->len == 1)
         RemoveInitItem(plist);
