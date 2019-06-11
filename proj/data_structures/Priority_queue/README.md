@@ -23,7 +23,6 @@ This function returns idx * 2, the left child node's idx.
 
 * int GetRChild(int idx);<br>
 This function returns idx * 2 + 1, the right child node's idx.
-* void Insert(Heap *pheap, Data, int priority);
 
 * int GetHighPriorityChild(Heap *pheap, int idx);<br>
 This function returns child node's idx which has higher priority.
@@ -43,7 +42,8 @@ int GetHighPriorityChild(Heap *pheap, int idx)
     }
 }
 ```
-
+* void Insert(Heap *pheap, Data item, int priority);<br>
+This function inserts item into Heap with priority. First, put a node to last position and by comparing parent node's priority with node priority, if node's priority is larger than parent's, change them.
 - Code
 ```c
 void Insert(Heap *pheap, Data item, int priority)
@@ -67,7 +67,8 @@ void Insert(Heap *pheap, Data item, int priority)
 }
 ```
 
-* Data Delete(Heap *pheap);
+* Data Delete(Heap *pheap);<br>
+This function
 
 ```c
 Data delete(Heap *pheap)
