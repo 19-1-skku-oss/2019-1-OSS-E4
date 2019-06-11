@@ -36,7 +36,6 @@ You can see the algorithm what you want in our 'C Language Algorithm Library'
 1. Sequential Search: In this, the list or array is traversed sequentially and every element is checked. For example: Linear Search.
 2. Interval Search: These algorithms are specifically designed for searching in sorted data-structures. These type of searching algorithms are much more efficient than Linear Search as they repeatedly target the center of the search structure and divide the search space in half. For Example: Binary Search.
 <br>
-
 ### Sorting
  Sorting algorithms are algorithms that list elements in a certain order, such as numerical order or dictionary order. Efficient alignment is important for optimizing other algorithms (which work correctly on a aligned list), such as navigation or merge algorithms. Alignment algorithms are also often useful in normalizing data or generating meaningful results. The results of this algorithm must meet the following two conditions:
 
