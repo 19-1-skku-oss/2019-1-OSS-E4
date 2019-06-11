@@ -118,3 +118,7 @@ This directory contains
 * server.c
 
 First execute server.c in a terminal and then client.c in a different terminal. Enables communication between two terminals.
+
+
+### Project Purpose
+ We have undertaken this project to effectively manage algorithms. Therefore, I hope that the other people who see this (Like you!) will look at the project and give a lot of advice. It will enrich our algorithms!
