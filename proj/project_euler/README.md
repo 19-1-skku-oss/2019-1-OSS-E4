@@ -2,11 +2,13 @@
 
 Problems are taken from https://projecteuler.net/.
 
-Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical 
-insights to solve. Project Euler is ideal for mathematicians who are learning to code. 
+ Euler Project is a website designed to solve math problems with computer programs. The project was created to create interest in math and computer programming. In May 2009, the project involved more than 250 different difficulty problems. Each problem can be solved in a minute with a modern computer if it is an efficient algorithm. It has been adding new issues periodically since 2001. Users who have submitted the correct answer to the question can view the forum for each question. A logged in user can see the ranking of high scorers based on the number of problems solved. 25 Each time you solve a problem, the level goes up, and a unique emblem is given. Solving certain combinations of problems can also give you an 'imagination'.
 
-Here the efficiency of your code is also checked.
-I've tried to provide all the best possible solutions.
+ In Summury, Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical 
+ insights to solve. Project Euler is ideal for mathematicians who are learning to code. 
+
+ Here the efficiency of your code is also checked.
+ I've tried to provide all the best possible solutions.
 
 PROBLEMS:
 
